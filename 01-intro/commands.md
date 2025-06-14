@@ -4,7 +4,7 @@ conda init
 conda deactivate
 conda activate llm-zoomcamp
 
-pip install tqdm notebook==7.1.2 openai elasticsearch==8.13.0 pandas scikit-learn ipywidgets
+pip install tqdm notebook==7.1.2 openai elasticsearch==8.13.0 pandas scikit-learn ipywidgets python-dotenv litellm minsearch
 ```
 
 ```bash
