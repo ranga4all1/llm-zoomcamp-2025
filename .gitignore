@@ -196,3 +196,4 @@ cython_debug/
 ## Added by me
 02-vector-search/qdrant_storage
 homework/02-vector-search/qdrant_storage
+homework/workshops/dlt/db.qdrant
